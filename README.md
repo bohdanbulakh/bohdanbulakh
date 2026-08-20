@@ -50,7 +50,11 @@
 
 ### My stats
 
-<img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bohdanbulakh&theme=transparent" alt="profile details">
-
-<img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bohdanbulakh&theme=transparent" alt="stats">
-<img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bohdanbulakh&theme=transparent" alt="top languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+  <img alt="GitHub statistics" src="./assets/stats-light.svg" width="420">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/top-langs-dark.svg">
+  <img alt="Top languages" src="./assets/top-langs-light.svg" width="420">
+</picture>

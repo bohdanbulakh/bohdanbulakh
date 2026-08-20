@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" role="img" aria-labelledby="t d">
+<title id="t">GitHub statistics for bohdanbulakh</title>
+<desc id="d">Public repos: 46. Commits (12 mo): 344. Contributions: 369. Pull requests: 7. Active repos: 20. Languages: 14</desc>
+<style>text{font-family:system-ui, -apple-system, 'Segoe UI', Ubuntu, sans-serif;}</style>
+<rect width="420" height="200" rx="6" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="419" height="199" rx="6" fill="none" stroke="#e1e0d9"/>
+<text x="24" y="36" font-size="17" font-weight="600" fill="#0b0b0b">Bohdan Bulakh</text>
+<text x="24" y="55" font-size="11.5" fill="#898781">@bohdanbulakh &#183; last 12 months</text>
+<line x1="24" y1="70" x2="396" y2="70" stroke="#e1e0d9"/>
+<text x="24" y="104" font-size="25" font-weight="600" fill="#0b0b0b">46</text>
+<text x="24" y="121" font-size="10.5" fill="#898781">Public repos</text>
+<text x="148" y="104" font-size="25" font-weight="600" fill="#0b0b0b">344</text>
+<text x="148" y="121" font-size="10.5" fill="#898781">Commits (12 mo)</text>
+<text x="272" y="104" font-size="25" font-weight="600" fill="#0b0b0b">369</text>
+<text x="272" y="121" font-size="10.5" fill="#898781">Contributions</text>
+<text x="24" y="158" font-size="25" font-weight="600" fill="#0b0b0b">7</text>
+<text x="24" y="175" font-size="10.5" fill="#898781">Pull requests</text>
+<text x="148" y="158" font-size="25" font-weight="600" fill="#0b0b0b">20</text>
+<text x="148" y="175" font-size="10.5" fill="#898781">Active repos</text>
+<text x="272" y="158" font-size="25" font-weight="600" fill="#0b0b0b">14</text>
+<text x="272" y="175" font-size="10.5" fill="#898781">Languages</text>
+</svg>
