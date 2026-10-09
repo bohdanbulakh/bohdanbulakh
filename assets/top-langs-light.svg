@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" role="img" aria-labelledby="t d">
 <title id="t">Top languages used by bohdanbulakh</title>
-<desc id="d">TypeScript 48.4%, JavaScript 10.6%, Java 9.2%, Go 8.4%, C# 8.4%, Kotlin 4.6%, Other 10.3%</desc>
+<desc id="d">TypeScript 48.2%, JavaScript 10.5%, Java 9.1%, Go 8.4%, C# 8.4%, Kotlin 4.6%, Other 10.8%</desc>
 <style>text{font-family:system-ui, -apple-system, 'Segoe UI', Ubuntu, sans-serif;}</style>
 <rect width="420" height="200" rx="6" fill="#ffffff"/>
 <rect x="0.5" y="0.5" width="419" height="199" rx="6" fill="none" stroke="#e1e0d9"/>
 <text x="24" y="36" font-size="17" font-weight="600" fill="#0b0b0b">Top languages</text>
-<text x="24" y="55" font-size="11.5" fill="#898781">by bytes of code across 42 public repos</text>
-<path d="M28.00,74 H198.30 V92 H28.00 a4,4 0 0 1 -4,-4 V78 a4,4 0 0 1 4,-4 Z" fill="#2a78d6"/>
-<path d="M200.30,74 H238.35 V92 H200.30 V74 Z" fill="#eb6834"/>
-<path d="M240.35,74 H273.46 V92 H240.35 V74 Z" fill="#1baf7a"/>
-<path d="M275.46,74 H305.80 V92 H275.46 V74 Z" fill="#eda100"/>
-<path d="M307.80,74 H338.05 V92 H307.80 V74 Z" fill="#e87ba4"/>
-<path d="M340.05,74 H356.76 V92 H340.05 V74 Z" fill="#008300"/>
-<path d="M358.76,74 H392.00 a4,4 0 0 1 4,4 V88 a4,4 0 0 1 -4,4 H358.76 V74 Z" fill="#898781"/>
-<text x="111.15" y="86.8" text-anchor="middle" font-size="10.5" font-weight="600" fill="#ffffff">TypeScript 48.4%</text>
+<text x="24" y="55" font-size="11.5" fill="#898781">by bytes of code across 43 public repos</text>
+<path d="M28.00,74 H197.35 V92 H28.00 a4,4 0 0 1 -4,-4 V78 a4,4 0 0 1 4,-4 Z" fill="#2a78d6"/>
+<path d="M199.35,74 H237.20 V92 H199.35 V74 Z" fill="#eb6834"/>
+<path d="M239.20,74 H272.12 V92 H239.20 V74 Z" fill="#1baf7a"/>
+<path d="M274.12,74 H304.30 V92 H274.12 V74 Z" fill="#eda100"/>
+<path d="M306.30,74 H336.38 V92 H306.30 V74 Z" fill="#e87ba4"/>
+<path d="M338.38,74 H355.01 V92 H338.38 V74 Z" fill="#008300"/>
+<path d="M357.01,74 H392.00 a4,4 0 0 1 4,4 V88 a4,4 0 0 1 -4,4 H357.01 V74 Z" fill="#898781"/>
+<text x="110.68" y="86.8" text-anchor="middle" font-size="10.5" font-weight="600" fill="#ffffff">TypeScript 48.2%</text>
 <rect x="24" y="110" width="10" height="10" rx="2" fill="#2a78d6"/>
 <text x="41" y="118" font-size="11.5" fill="#52514e">TypeScript</text>
-<text x="184" y="118" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">48.4%</text>
+<text x="184" y="118" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">48.2%</text>
 <rect x="24" y="130" width="10" height="10" rx="2" fill="#eb6834"/>
 <text x="41" y="138" font-size="11.5" fill="#52514e">JavaScript</text>
-<text x="184" y="138" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">10.6%</text>
+<text x="184" y="138" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">10.5%</text>
 <rect x="24" y="150" width="10" height="10" rx="2" fill="#1baf7a"/>
 <text x="41" y="158" font-size="11.5" fill="#52514e">Java</text>
-<text x="184" y="158" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">9.2%</text>
+<text x="184" y="158" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">9.1%</text>
 <rect x="24" y="170" width="10" height="10" rx="2" fill="#eda100"/>
 <text x="41" y="178" font-size="11.5" fill="#52514e">Go</text>
 <text x="184" y="178" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">8.4%</text>
@@ -34,5 +34,5 @@
 <text x="374" y="138" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">4.6%</text>
 <rect x="214" y="150" width="10" height="10" rx="2" fill="#898781"/>
 <text x="231" y="158" font-size="11.5" fill="#52514e">Other</text>
-<text x="374" y="158" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">10.3%</text>
+<text x="374" y="158" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">10.8%</text>
 </svg>
