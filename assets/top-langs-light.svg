@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" role="img" aria-labelledby="t d">
 <title id="t">Top languages used by bohdanbulakh</title>
-<desc id="d">TypeScript 48.2%, JavaScript 10.5%, Java 9.1%, Go 8.4%, C# 8.4%, Kotlin 4.6%, Other 10.8%</desc>
+<desc id="d">TypeScript 47.2%, JavaScript 11.3%, Java 9.0%, Go 8.2%, C# 8.2%, Kotlin 4.5%, Other 11.6%</desc>
 <style>text{font-family:system-ui, -apple-system, 'Segoe UI', Ubuntu, sans-serif;}</style>
 <rect width="420" height="200" rx="6" fill="#ffffff"/>
 <rect x="0.5" y="0.5" width="419" height="199" rx="6" fill="none" stroke="#e1e0d9"/>
 <text x="24" y="36" font-size="17" font-weight="600" fill="#0b0b0b">Top languages</text>
-<text x="24" y="55" font-size="11.5" fill="#898781">by bytes of code across 43 public repos</text>
-<path d="M28.00,74 H197.35 V92 H28.00 a4,4 0 0 1 -4,-4 V78 a4,4 0 0 1 4,-4 Z" fill="#2a78d6"/>
-<path d="M199.35,74 H237.20 V92 H199.35 V74 Z" fill="#eb6834"/>
-<path d="M239.20,74 H272.12 V92 H239.20 V74 Z" fill="#1baf7a"/>
-<path d="M274.12,74 H304.30 V92 H274.12 V74 Z" fill="#eda100"/>
-<path d="M306.30,74 H336.38 V92 H306.30 V74 Z" fill="#e87ba4"/>
-<path d="M338.38,74 H355.01 V92 H338.38 V74 Z" fill="#008300"/>
-<path d="M357.01,74 H392.00 a4,4 0 0 1 4,4 V88 a4,4 0 0 1 -4,4 H357.01 V74 Z" fill="#898781"/>
-<text x="110.68" y="86.8" text-anchor="middle" font-size="10.5" font-weight="600" fill="#ffffff">TypeScript 48.2%</text>
+<text x="24" y="55" font-size="11.5" fill="#898781">by bytes of code across 44 public repos</text>
+<path d="M28.00,74 H193.87 V92 H28.00 a4,4 0 0 1 -4,-4 V78 a4,4 0 0 1 4,-4 Z" fill="#2a78d6"/>
+<path d="M195.87,74 H236.59 V92 H195.87 V74 Z" fill="#eb6834"/>
+<path d="M238.59,74 H270.85 V92 H238.59 V74 Z" fill="#1baf7a"/>
+<path d="M272.85,74 H302.43 V92 H272.85 V74 Z" fill="#eda100"/>
+<path d="M304.43,74 H333.91 V92 H304.43 V74 Z" fill="#e87ba4"/>
+<path d="M335.91,74 H352.19 V92 H335.91 V74 Z" fill="#008300"/>
+<path d="M354.19,74 H392.00 a4,4 0 0 1 4,4 V88 a4,4 0 0 1 -4,4 H354.19 V74 Z" fill="#898781"/>
+<text x="108.93" y="86.8" text-anchor="middle" font-size="10.5" font-weight="600" fill="#ffffff">TypeScript 47.2%</text>
 <rect x="24" y="110" width="10" height="10" rx="2" fill="#2a78d6"/>
 <text x="41" y="118" font-size="11.5" fill="#52514e">TypeScript</text>
-<text x="184" y="118" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">48.2%</text>
+<text x="184" y="118" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">47.2%</text>
 <rect x="24" y="130" width="10" height="10" rx="2" fill="#eb6834"/>
 <text x="41" y="138" font-size="11.5" fill="#52514e">JavaScript</text>
-<text x="184" y="138" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">10.5%</text>
+<text x="184" y="138" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">11.3%</text>
 <rect x="24" y="150" width="10" height="10" rx="2" fill="#1baf7a"/>
 <text x="41" y="158" font-size="11.5" fill="#52514e">Java</text>
-<text x="184" y="158" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">9.1%</text>
+<text x="184" y="158" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">9.0%</text>
 <rect x="24" y="170" width="10" height="10" rx="2" fill="#eda100"/>
 <text x="41" y="178" font-size="11.5" fill="#52514e">Go</text>
-<text x="184" y="178" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">8.4%</text>
+<text x="184" y="178" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">8.2%</text>
 <rect x="214" y="110" width="10" height="10" rx="2" fill="#e87ba4"/>
 <text x="231" y="118" font-size="11.5" fill="#52514e">C#</text>
-<text x="374" y="118" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">8.4%</text>
+<text x="374" y="118" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">8.2%</text>
 <rect x="214" y="130" width="10" height="10" rx="2" fill="#008300"/>
 <text x="231" y="138" font-size="11.5" fill="#52514e">Kotlin</text>
-<text x="374" y="138" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">4.6%</text>
+<text x="374" y="138" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">4.5%</text>
 <rect x="214" y="150" width="10" height="10" rx="2" fill="#898781"/>
 <text x="231" y="158" font-size="11.5" fill="#52514e">Other</text>
-<text x="374" y="158" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">10.8%</text>
+<text x="374" y="158" font-size="11.5" text-anchor="end" fill="#898781" font-variant-numeric="tabular-nums">11.6%</text>
 </svg>
